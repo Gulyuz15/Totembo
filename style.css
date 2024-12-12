@@ -1,0 +1,73 @@
+* {
+  font-family: "Montserrat", serif;
+}
+.navbar-link {
+  font-size: 18px;
+}
+.line {
+  width: 100%;
+  height: 2px;
+  background-color: black;
+}
+.header-card {
+  height: 294px;
+  background-color: #e1e1e1;
+}
+.header-maincard {
+  background-color: #e1e1e1;
+  height: 100%;
+}
+.chegirma {
+  padding: 11px 38px;
+  color: white;
+  background-color: #323232;
+  font-size: 22px;
+  top: 15px;
+  left: 15px;
+  border-radius: 10px;
+}
+.lider-card {
+    background-color: #8484844D;
+    padding-top: 72px;
+    padding: 39px;
+    border-radius: 10px;
+}
+.lider-title {
+  margin-top: 96px;
+  margin-bottom: 86px;
+}
+.like, .shopping {
+    font-size: 18px;
+    padding: 16px 15px;
+    background-color: #fff;
+    border-radius: 10px;
+    top: 20px;
+    right: 20px;
+}
+.header-diamond {
+    max-width: 306px;
+}
+.shopping {
+    top: 90px;
+}
+.footer-image{
+  background-image: url(./images/footer-image.png);
+  background-size: cover;
+  background-position: center;
+}
+.button{
+  margin-left: 20px;
+  margin-top: 20px;
+  padding: 11px 38px;
+  color: black;
+  background-color: white;
+  font-size: 22px;
+  top: 15px;
+  left: 15px;
+  border-radius: 10px;
+  border: none;
+}
+
+.footer{
+  background-color: #323232;
+}
